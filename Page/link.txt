@@ -51,7 +51,7 @@ https://firpe.cn/page-247
 FirPE
 
 -
-https://wwvs.lanzoue.com/iSVu4347l9xi#密码:11
+https://wwvs.lanzoue.com/iSVu4347l9xi#密码:1234
 Fliqlo
 
 -
@@ -59,7 +59,7 @@ https://wwbie.lanzoue.com/iYMTF3j1wtej#密码:1234
 火绒_6.0.91
 
 -
-https://wwbie.lanzoue.com/iVaMq3cfw5tc#密码:1234
+https://wwbie.lanzoue.com/igTAV3k1l5ta#密码:1234
 InnoSetup编译器
 
 -
@@ -69,10 +69,6 @@ https://www.douyin.com/downloadpage/pc
 -
 https://localsend.org/zh-CN/download?os=windows
 LocalSend
-
--
-https://wwvs.lanzoue.com/i2WeU336do6b#密码:1234
-Miside存档
 
 -
 https://motrix.app/
@@ -88,14 +84,14 @@ Obsidian
 
 -
 https://obsproject.com/download
-OBS
+OBS Studio
 
 -
 https://pixpin.cn/
 PixPin
 
 -
-https://github.com/microsoft/PowerToys/releases
+https://github.com/microsoft/PowerToys
 Powertoys
 
 -
@@ -115,12 +111,8 @@ https://readest.com/
 Readest
 
 -
-http://4275.com/2ctzuk
-鲁大师
-
--
-http://4275.com/k4hesn
-鲁大师精简版6.1024.4050.809
+https://wwbie.lanzoue.com/iGwQX3kmw9he#密码:1234
+鲁大师精简版6.1026.4525.204
 
 -
 https://www.mini1.cn/index
@@ -137,10 +129,6 @@ Steam
 -
 https://www.dogfight360.com/blog/18682/
 steamcommunity_302
-
--
-https://cpc.icloud.cn/
-顺网云电脑
 
 -
 https://wwvs.lanzoue.com/iRuy8374qlwj#密码:1234
@@ -171,8 +159,8 @@ https://uuyc.163.com/download/?source_channel=gwgame
 UU远程
 
 -
-https://uu.163.com/
-UU加速器
+https://www.leigod.com/
+雷神加速器
 
 -
 https://pc.weixin.qq.com/
@@ -189,10 +177,6 @@ https://www.msi.cn/Landing/afterburner/graphics-cards
 -
 https://val.qq.com/
 无畏契约
-
--
-https://wwvs.lanzoue.com/b00uzdn37i#密码:1234
-适用于Android的Windows子系统
 
 -
 https://code.visualstudio.com/download
